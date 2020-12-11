@@ -1,13 +1,14 @@
 {
   "name": "helloworld",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.tsx",
   "scripts": {
     "test": "jest"
   },
   "keywords": [
-    "js", "tsx"
+    "js",
+    "tsx"
   ],
   "author": "",
   "license": "ISC",
