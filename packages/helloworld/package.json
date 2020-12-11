@@ -1,7 +1,7 @@
 {
-  "name": "helloworld",
+  "name": "learnasamplehelloworld",
   "version": "1.0.1",
-  "description": "",
+  "description": "project for learnasample project",
   "main": "index.tsx",
   "scripts": {
     "test": "jest"
@@ -13,7 +13,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^7.15.0",
-    "typescript": "^4.1.2"
-  }
+    "eslint": "7.15.0",
+    "typescript": "4.1.2"
+  },
+  "gitHead": "9717ba2220e6035c2e67001442c59dd9826312d2"
 }
